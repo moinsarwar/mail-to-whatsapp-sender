@@ -1,0 +1,8 @@
+imap-tools
+google-generativeai
+requests
+python-dotenv
+huggingface_hub
+fpdf2
+weasyprint
+beautifulsoup4
